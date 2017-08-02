@@ -5,6 +5,7 @@ package com.corejava.part12;
  * @version 1.0
  */
 public class Pair <T> {
+    
     private T first;
     private T second;
     
